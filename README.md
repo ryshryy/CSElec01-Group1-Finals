@@ -1,16 +1,16 @@
 # CS ELEC 01 - Finals Activity 1: Computational Science Case Studies
 
-## 📌 Project Overview
+## Project Overview
 This repository contains the Python-based solutions, visualizations, and analytical reports for **Finals Activity 1** in **CS ELEC 01-COMPUTATIONAL SCIENCE**. 
 
 The objective of this project is to apply numerical methods—specifically **Numerical Differentiation (Central Difference)** and **Numerical Integration (Trapezoidal Rule)**—to real-world discrete data sets to estimate continuous behaviors such as rate of change and accumulated totals.
 
-## 👥 Team Members (University of Southern Mindanao)
-* **Rachel Joy Pacot**
+## Group 1 Members
 * **Anjuvh Baldwin Yguinto**
 * **Lloyd Rainier Vitudio**
+* **Rachel Joy Pacot**
 
-## 📂 Selected Case Studies
+## Case Studies
 We have selected the following three case studies for our oral evaluation:
 
 ### 1. Case Study 1: Population Growth Analysis Using Numerical Methods
