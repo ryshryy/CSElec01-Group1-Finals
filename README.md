@@ -3,8 +3,6 @@
 ## Project Overview
 This repository contains the Python-based solutions, visualizations, and analytical reports for **Finals Activity 1** in **CS ELEC 01-COMPUTATIONAL SCIENCE**. 
 
-The objective of this project is to apply numerical methods—specifically **Numerical Differentiation (Central Difference)** and **Numerical Integration (Trapezoidal Rule)**—to real-world discrete data sets to estimate continuous behaviors such as rate of change and accumulated totals.
-
 ## Group 1 Members
 * **Anjuvh Baldwin Yguinto**
 * **Lloyd Rainier Vitudio**
